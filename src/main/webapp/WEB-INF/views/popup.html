@@ -1,0 +1,26 @@
+{candidateID, comment, recommenderID, jobID} POST -- maybe return status
+
+{candidateID, recommenderID} (script to find encoded memberID) GET
+{score, criteria1, criteria2...} POST
+
+<html>
+<head>
+	<title>RecoGenie - Recommendation Score</title>
+	<link rel="stylesheet" href="../styles/styles.css" type="text/css">
+</head>
+
+<body>
+
+<h2>Here's the Result!<h2>
+<div>Score [62]</div>
+<button>Contact Candidate [candidateID.email]</button>
+<ul>
+	<li>Industry</li>
+	<li>Education</li>
+	<li>Company</li>
+	<li>Position</li>
+	<li>Skills</li>
+</ul>
+<button>Contact Recommender [recommenderID.email]</button>
+</body>
+</html>

@@ -1,0 +1,226 @@
+{
+  "educations": {
+    "_total": 3,
+    "values": [
+      {
+        "activities": "ASCIE: Association of Graduate Students in Computer Information Science and Engineering",
+        "degree": "MS",
+        "endDate": {
+          "year": 2010
+        },
+        "fieldOfStudy": "Computer Engineering",
+        "id": 32284459,
+        "notes": "Coursework: Advanced Data Structures,Analysis of Algorithms,Computer Networks, Computer Communication,  Distributed Operating System Principles, Computer Architecture ,Database Management System, Software Engineering, Software Testing & Verification\n\nProjects: \nLeader Election Algorithm: Implemented multithreaded distributed election algorithm to dynamically elect network topology leader using  multicast-based minimum spanning tree.\n\nMIPS Disassembly and Simulation: Developed disassembler and designed a cycle accurate simulator to model out of order MIPS processor\n\nAirline flight reservation system: Developed a website for  online air ticket reservation\n\nData Structures: Implemented & conducted performance  analysis of various operations on Red back trees , AVL trees & B trees\n\nGatorfone System: Implemented  VOIP based system by refining Linphone & integrating Asterisk & A2 Billing into it. Created a web portal to manage Gatorfone user accounts, user activities and billing information",
+        "schoolName": "University of Florida",
+        "startDate": {
+          "year": 2008
+        }
+      },
+      {
+        "activities": "Presented paper on “Seamless Roaming- Future of Mobile Computing” at 20th student convention, Computer Society of India.",
+        "degree": "BE",
+        "endDate": {
+          "year": 2007
+        },
+        "fieldOfStudy": "Information Science",
+        "id": 32337125,
+        "notes": "Coursework: Data structures, Computer organization, Operating systems, Data communication, Mobile communications, Software practice & testing, Data mining and warehousing, Logic design, Microprocessors\n\nAcademic Projects:\n\nSteganography with encryption in video files: Implemented Java based two-fold data security mechanism by embedding RSA, Base-64 encrypted text files in video files and obfuscating them using LSB addition technique.",
+        "schoolName": "Visvesvaraya Technological University",
+        "startDate": {
+          "year": 2003
+        }
+      },
+      {
+        "activities": "",
+        "degree": "PU",
+        "endDate": {
+          "year": 2003
+        },
+        "fieldOfStudy": "PCMB",
+        "id": 32337128,
+        "notes": "",
+        "schoolName": "National College, Jayanagar",
+        "startDate": {
+          "year": 2001
+        }
+      }
+    ]
+  },
+  "firstName": "Swetha",
+  "id": "78iLJXLTA6",
+  "industry": "Computer Software",
+  "lastName": "Karthik",
+  "positions": {
+    "_total": 4,
+    "values": [
+      {
+        "company": {
+          "id": 1337,
+          "industry": "Internet",
+          "name": "LinkedIn",
+          "size": "1001-5000 employees",
+          "ticker": "LNKD",
+          "type": "Public Company"
+        },
+        "id": 225925445,
+        "isCurrent": true,
+        "startDate": {
+          "month": 10,
+          "year": 2011
+        },
+        "summary": "Software Engineer in Data Services Platform Team",
+        "title": "Software Engineer, Data Services"
+      },
+      {
+        "company": {
+          "id": 2828,
+          "industry": "Telecommunications",
+          "name": "Research In Motion",
+          "size": "10,001+ employees",
+          "ticker": "RIMM",
+          "type": "Public Company"
+        },
+        "endDate": {
+          "month": 10,
+          "year": 2011
+        },
+        "id": 136132382,
+        "isCurrent": false,
+        "startDate": {
+          "month": 8,
+          "year": 2010
+        },
+        "summary": "Competitive Analysis Data Management System\n\n•\tResponsible for implementing an effective solution for storing, processing and retrieving competitive analysis data. This system forms the basis for statistical analysis of competitive data for the company.\n•\tResponsible for designing key parts of the system including the user interface for data entry, custom reporting and tools for inventory control.\n•\tImplemented the system in ASP.NET and C#\n•       Implemented login monitoring & access control , and performed query optimization on the backend database. Implemented robust-error handling mechanism to handle exceptional system usage and performed unit, integration and system testing on the system.\n•\tGuided intern candidates on design & implementation of the system.",
+        "title": "Software Tools Developer"
+      },
+      {
+        "company": {
+          "id": 2828,
+          "industry": "Telecommunications",
+          "name": "Research In Motion",
+          "size": "10,001+ employees",
+          "ticker": "RIMM",
+          "type": "Public Company"
+        },
+        "endDate": {
+          "month": 5,
+          "year": 2010
+        },
+        "id": 98601395,
+        "isCurrent": false,
+        "startDate": {
+          "month": 9,
+          "year": 2009
+        },
+        "summary": "•\tDesigned and created Entity-Attribute-Value based  datastore for storing device and test related information \n•\tDesigned, implemented and tested an application to load test data from various file formats onto SQL Server and developed a user friendly web interface to run dynamic queries, retrieve and view information in various formats using ASP.NET and C#",
+        "title": "Software Developer Co-Op"
+      },
+      {
+        "company": {
+          "id": 2008,
+          "industry": "Information Technology and Services",
+          "name": "Keane",
+          "type": "Public Company"
+        },
+        "endDate": {
+          "month": 6,
+          "year": 2008
+        },
+        "id": 72191698,
+        "isCurrent": false,
+        "startDate": {
+          "month": 7,
+          "year": 2007
+        },
+        "summary": "Worked on two projects: Aero Product Data Management for Honeywell Aerospace, and HUGIN Data Warehouse for Standard and Poor's\n\n•\tDeveloped and maintained Aero PDM data warehouse and on-demand reports for product data management system that aids Honeywell in informed decision making in their business related to avionics. Developed and maintained hugin data warehouse  and  custom  reports for credit rating system that aids S&P in their market data analysis \n\n•\tParticipated in all stages of software development life cycle for both projects; individual responsibilities included cleansing and loading relational and XML data onto the enterprise data warehouse using ETL tools, developing SQL procedures to support ETL processes, and creation,  testing and maintenance of Business Objects universe and  reports.",
+        "title": "Software Engineer, Business Intelligence and Data Warehousing Group"
+      }
+    ]
+  },
+  "siteStandardProfileRequest": {
+    "url": "http://www.linkedin.com/profile/view?id=44645743&authType=name&authToken=jlHT&trk=api*a3227641*s3301901*"
+  },
+  "skills": {
+    "_total": 13,
+    "values": [
+      {
+        "id": 35,
+        "skill": {
+          "name": "Java"
+        }
+      },
+      {
+        "id": 36,
+        "skill": {
+          "name": "HTML"
+        }
+      },
+      {
+        "id": 37,
+        "skill": {
+          "name": "Pig"
+        }
+      },
+      {
+        "id": 38,
+        "skill": {
+          "name": "Hadoop"
+        }
+      },
+      {
+        "id": 39,
+        "skill": {
+          "name": "Algorithms"
+        }
+      },
+      {
+        "id": 40,
+        "skill": {
+          "name": "JavaScript"
+        }
+      },
+      {
+        "id": 41,
+        "skill": {
+          "name": "C#"
+        }
+      },
+      {
+        "id": 46,
+        "skill": {
+          "name": "C"
+        }
+      },
+      {
+        "id": 49,
+        "skill": {
+          "name": "Apache Pig"
+        }
+      },
+      {
+        "id": 50,
+        "skill": {
+          "name": "SQL"
+        }
+      },
+      {
+        "id": 51,
+        "skill": {
+          "name": "Software Engineering"
+        }
+      },
+      {
+        "id": 52,
+        "skill": {
+          "name": "Distributed Systems"
+        }
+      },
+      {
+        "id": 53,
+        "skill": {
+          "name": "Databases"
+        }
+      }
+    ]
+  }
+}
